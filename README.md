@@ -1,6 +1,6 @@
 ## DFHG Volumen Tertium
 
-This page contains data from the [DFHG project](http://www.dfhg-project.org/) - [Volumen Tertium](http://www.dfhg-project.org/DFHG/index.php?volume=Volumen%20tertium).
+This repository stores data from the [DFHG project](http://www.dfhg-project.org/) - [Volumen Tertium](http://www.dfhg-project.org/DFHG/index.php?volume=Volumen%20tertium).
 
 The volume contains fragments of authors from the beginning of the reign of Ptolemy III in 247 BC through the beginning of the reign of Constantine the Great in 306 CE.
 
