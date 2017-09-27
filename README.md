@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/77935075.svg)](https://zenodo.org/badge/latestdoi/77935075)
+
 ## DFHG Volumen Tertium
 
 This repository stores data from the [DFHG project](http://www.dfhg-project.org/) - [Volumen Tertium](http://www.dfhg-project.org/DFHG/index.php?volume=Volumen%20tertium).
